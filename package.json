@@ -1,0 +1,8 @@
+{
+  "name": "poisku",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/chlp/poisku.git",
+  "author": "Aleksei Rytikov",
+  "license": "MIT"
+}
